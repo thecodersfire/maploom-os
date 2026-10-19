@@ -24,3 +24,9 @@ The `maploom.svg` wallpaper is original. Maploom OS is an independent Ubuntu cus
 
 See [FEATURES.md](FEATURES.md) for three local tools included for geographic information systems.
 
+
+The installer also includes three purpose-specific applications: **GNOME Maps, Zotero, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Maps, Zotero, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Maps, Zotero, VSCodium**. See [FEATURES.md](FEATURES.md).
