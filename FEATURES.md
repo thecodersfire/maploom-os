@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for geographic information sy
 10. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **Stellarium** (org.stellarium.Stellarium) — explore a planetarium sky for astronomy learning.
+2. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+3. **Shotwell** (org.gnome.Shotwell) — import, sort, and make quick edits to photo libraries.
+4. **RawTherapee** (com.rawtherapee.RawTherapee) — develop RAW photo files with tone and color controls.
+5. **Xournal++** (com.github.xournalpp.xournalpp) — annotate PDFs and take handwritten notes.
+6. **GeoGebra Classic** (org.geogebra.GeoGebra) — explore geometry, algebra, graphing, and 3D math.
+7. **JabRef** (org.jabref.jabref) — organize BibTeX references and research citations.
+8. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+9. **Evolution** (org.gnome.Evolution) — manage email, calendars, and contacts.
+10. **Gitg** (org.gnome.gitg) — review Git history and branches graphically.
+11. **LibreCAD** (org.librecad.librecad) — draft precise 2D technical drawings.
+12. **QElectroTech** (org.qelectrotech.QElectroTech) — draw electrical schematics and wiring diagrams.
+13. **GNOME Calculator** (org.gnome.Calculator) — perform scientific and financial calculations.
+14. **Disk Usage Analyzer** (org.gnome.baobab) — find large files and manage storage.
+15. **GNOME Logs** (org.gnome.Logs) — inspect logs during troubleshooting.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.

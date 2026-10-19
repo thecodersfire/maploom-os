@@ -20,3 +20,20 @@ org.gnome.SimpleScan
 org.gnome.Papers
 org.gnome.Boxes
 org.gnome.TextEditor
+
+# Fifteen additional preinstalled purpose-specific applications
+org.stellarium.Stellarium
+org.kde.digikam
+org.gnome.Shotwell
+com.rawtherapee.RawTherapee
+com.github.xournalpp.xournalpp
+org.geogebra.GeoGebra
+org.jabref.jabref
+org.mozilla.Thunderbird
+org.gnome.Evolution
+org.gnome.gitg
+org.librecad.librecad
+org.qelectrotech.QElectroTech
+org.gnome.Calculator
+org.gnome.baobab
+org.gnome.Logs
