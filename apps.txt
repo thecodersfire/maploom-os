@@ -37,3 +37,20 @@ org.qelectrotech.QElectroTech
 org.gnome.Calculator
 org.gnome.baobab
 org.gnome.Logs
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.marble
+org.kde.kgeography
+org.kde.kgeotag
+org.kde.kstars
+org.kde.gwenview
+org.kde.okular
+org.kde.kcalc
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+io.github.flattool.Warehouse
+com.github.flxzt.rnote
+org.kde.kate
+org.gnome.meld
+org.kde.konsole

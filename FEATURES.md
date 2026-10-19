@@ -61,3 +61,25 @@ These applications add tools suited to this setup focus. They are installed from
 15. **GNOME Logs** (org.gnome.Logs) — inspect logs during troubleshooting.
 
 Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
+
+## Fifteen further purpose-specific preinstalled applications
+
+This second batch adds another set of apps selected for this setup’s purpose. They are installed from Flathub by the setup scripts.
+
+1. **Marble** (org.kde.marble) — explore maps and a virtual globe for geographic context.
+2. **KGeography** (org.kde.kgeography) — practice country, capital, and map recognition.
+3. **KGeoTag** (org.kde.kgeotag) — add GPS coordinates to photos from a GPX track or map.
+4. **KStars** (org.kde.kstars) — plan sky observations and explore astronomy simulations.
+5. **Gwenview** (org.kde.gwenview) — review image sets and make quick crop, resize, and annotation edits.
+6. **Okular** (org.kde.okular) — read, bookmark, and annotate technical drawings, reading lists, and reference PDFs.
+7. **KCalc** (org.kde.kcalc) — run scientific and unit calculations for coursework or technical work.
+8. **Dolphin** (org.kde.dolphin) — organize project assets and inspect folders.
+9. **Ark** (org.kde.ark) — open and create common project archive files.
+10. **Filelight** (org.kde.filelight) — find large folders and reclaim disk space.
+11. **Warehouse** (io.github.flattool.Warehouse) — review installed Flatpaks, manage versions, and clean app data.
+12. **Rnote** (com.github.flxzt.rnote) — sketch diagrams, write by hand, and annotate pictures or documents.
+13. **Kate** (org.kde.kate) — edit configuration, code, notes, and structured project files.
+14. **Meld** (org.gnome.meld) — compare and merge source files, folders, and Git changes.
+15. **Konsole** (org.kde.konsole) — run shell commands and inspect development or system tasks.
+
+Game frontends do not include proprietary game data; add only games or files you are allowed to use.
